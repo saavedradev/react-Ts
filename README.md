@@ -48,3 +48,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### `Crear Proyecto Typescript`
 npx create-react-app . --template typescript
+
+## Video
+https://www.youtube.com/watch?v=dNxaP_BTtwQ&list=PLCKuOXG0bPi26-eawizqyLOgM7j66H_4M&index=1
