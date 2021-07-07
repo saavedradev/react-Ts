@@ -51,3 +51,6 @@ npx create-react-app . --template typescript
 
 ## Video
 https://www.youtube.com/watch?v=dNxaP_BTtwQ&list=PLCKuOXG0bPi26-eawizqyLOgM7j66H_4M&index=1
+
+video 4
+React + TypeScript: useEffect + useRef + Custom Props
